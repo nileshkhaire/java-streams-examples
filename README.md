@@ -23,3 +23,7 @@ Collection of Java 8 streams examples (snippets) grouped by java data structures
 
 ### Blogs
 ### Websites
+
+## Contributing
+
+Contributions are welcome :) Please create a pull request.
