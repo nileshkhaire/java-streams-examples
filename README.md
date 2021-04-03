@@ -16,6 +16,17 @@ Collection of Java 8 streams examples (snippets) grouped by java data structures
 
 ### Map
 ### List
+#### Find first element in the list
+```java
+Arrays.asList("hi", "hey", "hello")
+    .stream()
+    .findFirst()
+    .ifPresent(System.out::println);
+```
+Output :
+```
+hi
+```
 ### Set
 ### Array
 
